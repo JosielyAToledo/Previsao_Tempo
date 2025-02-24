@@ -5,9 +5,9 @@ Este projeto exibe informações sobre o clima de uma cidade, incluindo temperat
 
 ## 📂 Estrutura do Projeto
 
-- **`index.html`**: Contém o arquivo HTML que estrutura a página de clima.
-- **`style.css`**: Arquivo CSS que define o estilo visual da página.
-- **`script.js`**: Arquivo JavaScript que implementa a funcionalidade e lógica de obtenção dos dados climáticos da API.
+- **`html/`**: Contém o arquivo HTML que estrutura a página de clima.
+- **`css/`**: Arquivo CSS que define o estilo visual da página.
+- **`js/`**: Arquivo JavaScript que implementa a funcionalidade e lógica de obtenção dos dados climáticos da API.
 
 ## ⚙️ Funcionalidades
 
