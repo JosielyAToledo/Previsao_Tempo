@@ -14,11 +14,12 @@ Este projeto exibe informações sobre o clima de uma cidade, incluindo temperat
 - **Exibe a temperatura atual**: Mostra a temperatura em graus Celsius.
 - **Exibe a umidade**: Apresenta a umidade relativa do ar.
 - **Condições climáticas**: Exibe o clima atual (sol, chuva, nublado, etc).
-- **Atualização automática**: Os dados climáticos são atualizados a cada 30 minutos, sem necessidade de recarregar a página.
+- **Atualização automática**: Os dados climáticos são atualizados.
 - **Design simples**: A interface é responsiva e fácil de usar.
 
 ## 📌 Créditos
 
-O código deste projeto foi inspirado em tutoriais disponíveis no Youtube no canal **DEVClub Programação** e adaptado para o uso de uma API de clima.
+O código deste projeto foi inspirado em tutorial do canal **DEVClub Programação** e adaptado para o uso de uma API de clima.
 
-https://youtu.be/qxzqEuAOYZ4?si=-a7ukeP-Mb0Ni9MS
+Disponível em: https://youtu.be/qxzqEuAOYZ4?si=-a7ukeP-Mb0Ni9MS
+
