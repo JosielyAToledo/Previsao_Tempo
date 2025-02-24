@@ -19,6 +19,6 @@ Este projeto exibe informações sobre o clima de uma cidade, incluindo temperat
 
 ## 📌 Créditos
 
-O código deste projeto foi inspirado em tutoriais disponíveis na internet e adaptado para o uso de uma API de clima.
+O código deste projeto foi inspirado em tutoriais disponíveis no Youtube no canal **DEVClub Programação** e adaptado para o uso de uma API de clima.
 
 https://youtu.be/qxzqEuAOYZ4?si=-a7ukeP-Mb0Ni9MS
